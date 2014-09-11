@@ -84,7 +84,7 @@
      [:div (map span children)]
      [:br]
      [:form {:on-submit submit-form}
-      [:input {:type "text" :id "zi"}][:br]
+      [:input {:type "text" :id "zi"}][:br][:br]
       [:input {:type "submit"}]]
      ]))
 
