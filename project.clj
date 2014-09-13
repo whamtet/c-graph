@@ -5,6 +5,7 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/clojurescript "0.0-2311"]
                  [reagent "0.4.2"]
+                 [org.clojure/data.json "0.2.5"]
                  ]
 
   :plugins [[lein-cljsbuild "1.0.4-SNAPSHOT"]]
@@ -17,5 +18,6 @@
               :compiler {
                 :output-to "c_graph.js"
                 :output-dir "out"
-                :optimizations :simple
+;                :optimizations :simple
+                :optimizations :none
                 }}]})
