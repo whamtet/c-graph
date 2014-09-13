@@ -18,6 +18,6 @@
               :compiler {
                 :output-to "c_graph.js"
                 :output-dir "out"
-;                :optimizations :simple
-                :optimizations :none
+                :optimizations :simple
+;                :optimizations :none
                 }}]})
