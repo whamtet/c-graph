@@ -2,6 +2,8 @@
 
 Explore traditional chinese characters
 
+[Demo](http://hanzi.us.to)
+
 ## Usage
 
 Install [leiningen](https://github.com/technomancy/leiningen)
