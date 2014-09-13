@@ -1,8 +1,8 @@
 # c-graph
 
-[Demo](http://hanzi.us.to)
-
 Explore traditional chinese characters
+
+[Demo](http://hanzi.us.to)
 
 ## Usage
 
